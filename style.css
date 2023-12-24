@@ -46,11 +46,6 @@ p{
     width: 1300px;
     display: flex;
     justify-content: center;
-    /*background-image: url(abc.jpg);*/
-    background-size: cover;
-    /* background-color: rgb(106, 106, 203); */
-  
-
 }
 .aboutme{
     height: 300px;
